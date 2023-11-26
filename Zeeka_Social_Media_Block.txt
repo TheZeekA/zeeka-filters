@@ -1,2 +1,10 @@
 # The Zeeka Social Media Killer
-# Blocks Facebook, Snapchat, Tiktok, Instagram, Twitter
+# Updated: 27 November 2023 
+# Zeeka
+facebook.com
+twitter.com
+x.com
+tiktok.com
+snapchat.com
+instagram.com
+meta.com
