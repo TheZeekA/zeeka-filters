@@ -933,6 +933,7 @@
 ||ib.tiktokv.com^
 ||p16-tiktokcdn-com.akamaized.net^
 ||v16-tiktokcdn-com.akamaized.net^
+||p77-sign-sg.tiktokcdn.com^
 ||47.252.102.50^
 ||161.117.71.74^
 ||47.252.102.182^
