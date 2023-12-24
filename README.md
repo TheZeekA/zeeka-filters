@@ -10,5 +10,5 @@ The purpose of this list is to completely block all social media on your network
 <li>SnapChat</li>
 <li>WhatsApp</li>
 <li>YouTube</li>
+<li>Twitter/X</li>
 <br>
-Twitter (X) will be added soon.
