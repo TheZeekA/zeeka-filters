@@ -12,3 +12,5 @@ The purpose of this list is to completely block all social media on your network
 <li>YouTube</li>
 <li>Twitter/X</li>
 <br>
+<hr>
+Individual blocklists created to block individual services.
