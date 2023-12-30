@@ -1,0 +1,18 @@
+# Block Twitter/X
+# Start TWITTER/X
+||x.com^
+||twitter.com^
+||ads-twitter.com^
+||periscope.tv^
+||pspc.tv^
+||t.co^
+||tweetdeck.com^
+||twimg.com^
+||twitpic.com^
+||twitter.co^
+||twitterinc.com^
+||twitteroauth.com^
+||twitterstat.us^
+||twtrdns.net^
+||twttr.com^
+# END Twitter/X
