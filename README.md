@@ -13,4 +13,7 @@ The purpose of this list is to completely block all social media on your network
 <li>Twitter/X</li>
 <br>
 <hr>
-Individual blocklists created to block individual services.
+<br>
+Individual blocklists created to block individual services. You have the option of choosing the Block ALL social filter or block individual social media services.
+<br>
+Please report any issues or missed domains.
