@@ -1,5 +1,5 @@
 <h2>Welcome to Zeeka on GitHub.<br></h2>
-This is the place where you can get your DNS Blocklists.<br>
+This is the place where you can get your ADGUARD HOME DNS Blocklists.<br>
 These lists are maintained and updated regularly.<br>
 <b>Last Update:</b> 21 December 2023
 <hr>
